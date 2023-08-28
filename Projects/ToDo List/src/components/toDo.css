@@ -1,0 +1,10 @@
+
+#blur-text {
+    color: #a5a5a5dd;
+}
+#todo-item {
+    display: flex;
+}
+#del-button:hover {
+    color: red;
+}
