@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Roboto;
+  font-weight: 400;
+  src: url("/youtube-clone/fonts/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 500;
+  src: url("/youtube-clone/fonts/Roboto-Medium.ttf");
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 700;
+  src: url("/youtube-clone/fonts/Roboto-Bold.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  padding-top: 67px;
+  padding-left: 105px;
+  padding-right: 20px;
+  font-family: Roboto, Arial;
+  background-color: rgb(245, 245, 245);
+}
+
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
